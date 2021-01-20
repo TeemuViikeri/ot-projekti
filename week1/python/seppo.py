@@ -26,4 +26,3 @@ main()
 # Koodin toiminta on rationaalista, sillä koodi toimii tarkoituksen mukaisesti ja loogisesti.
 # Ohjelman etenee ohjelmaa käyttävän syötteen mukaisesti ja halutusti, ja ilmoittaa asianmukaisen vastauksen.
 # Koodissa olevat silmukat ja ehtolausekkeet tuovat ohjelmaan ja func-funktioon rakennetta ja loogisuutta.
-
