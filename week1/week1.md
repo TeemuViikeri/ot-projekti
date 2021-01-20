@@ -31,13 +31,12 @@ vahvasti tiettyjen henkilöiden käsissä.
 ### Mitä tarkoitetaan vahvalla tekoälyllä?
 
 Vahvalla tekoälyllä tarkoitetaan sellaista tekoälyä, jolla on tietoisuus itsestään ja joka on
-muutenkin kykeneväinen itsenäiseen, ihmiskaltaiseen, ajatteluun. Vahvaa tekoälyä ei ole vielä kehitetty.
+muutenkin kykeneväinen itsenäiseen, ihmiskaltaiseen, ajatteluun.
 
 ### Entä heikolla/kapealla tekoälyllä?
 
 Heikko tekoäly on puolestaan rajoitettuihin tehtäviin tarkoitettu, ohjelmoidun logiikan mukaisesti toimiva
 tekoäly. Heikolla tekoälyllä ei ole tietoisuutta ja kykyä itsenäiseen ajatteluun kuten vahvalla tekoälyllä on.
-Kaikki tekoälyt edustavat vielä tällä hetkellä heikkoa tekoälyä. 
 
 ### Mikä on kiinalaisen huoneen argumentti?
 
@@ -48,15 +47,13 @@ Huoneen ulkopuolella oleva henkilö lähettää viestejä lappujen avulla huonee
 kiinaksi. Ulkopuolella oleva henkilö luulee, että huoneen sisällä oleva henkilö osaa kiinaa, vaikka ei
 oikeasti osaa -- hän pystyy vastaamaan ohjekirjan avuin. Vasta-argumentti siis perustuu tähän samaan
 ajatukseen: kone ei välttämättä ole älykäs, vaikka osaakin toimia älykkäästi. Kyse on myös siitä, miten
-älykkyys koetaan. Onko kyse oiminnasta vai tietoisuudesta/mielestä
+älykkyys koetaan. Onko kyse toiminnasta vai tietoisuudesta/mielestä?
 
 ### Onko mielestäsi vahva tekoäly mahdollinen? Perustele.
 
 Vahva tekoäly voi olla mahdollista, mutta sen kehittäminen vaatii todella paljon aikaa ja monen eri tieteenalan
-läpimurtoja. Esimerkiksi ymmärrystä ihmisen aivoista tarvitaan rutkasti enemmän ja tiedon tallentamiseen tarvitaan
-rutkasti enemmän tilaa kuin mitä nykyiset bittimäärät tarjoavat. Loppujen lopuksi kyse on kuitenkin määrittelystä.
-Riittääkö esimerkiksi, että tekoäly toiminnan tasolla vaikuttaa vahvalta tekoälyltä vai tarvitseeko tekoälyn kaikella
-tavoin olla kuten ihminen.
+läpimurtoja. Ymmärrystä ihmisen aivoista ja tiedon tallentamiseen tarvittavaa tilaa tarvitaan rutkasti enemmän tilaa kuin mitä nykyiset bittimäärät tarjoavat. 
+Loppujen lopuksi kyse on kuitenkin määrittelystä.
 
 ------------------------------------------------------------------------------------------
 
