@@ -4,30 +4,22 @@ import numpy as np
 
 def main():
     # Add data to the program
-    tuples = [(1, 4), (9, 31), (40, 22.5)]
-
-    # Initialize empty lists for x and y values 
-    x, y = []
-    # Iterate over tuples from data and add x and y values to their own lists
-    for tuple in tuples:
-        x.append(tuple[0])
-        y.append(tuple[1])
-
-    # Pack lists neatly to a dictionary
-    data = { "x": x, "y": y}
+    data = [(1, 4), (9, 31), (40, 22.5)]
     # Decide an arbitrary number for an input variable 
-    input = 20
-
+    input = 5
     # Call the function
     sirpa(data, input)
 
 
 def sirpa(perceptions, interesting_x):
-    # Create a linear regression model from perceptions
-    model = np.polyfit(perceptions.get('x'), perceptions.get('y'), 1)
-    # Construct a one-dimensional polynomial for predictions
+    # Add coordinates to their own variables
+    x = [perception[0] for perception in perceptions]
+    y = [perception[1] for perception in perceptions]
+    # Create a linear regression equation from perceptions and return coefficients
+    model = np.polyfit(x, y, 1)
+    # Construct a one-dimensional polynomial with the coefficients
     predict = np.poly1d(model)
-    # Create a prediction of an output value from an input value
+    # Create a prediction with the constructed polynomial
     estimate = round(predict(interesting_x), 1)
     # Print the estimate
     print("Estime: " + str(estimate))
