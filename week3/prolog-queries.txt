@@ -1,0 +1,3 @@
+1. first_likes_second(jon, X), human(X); cat(X); tail_color(X, black).
+2. animal(X), \+ (has_tail(X)).
+3. first_likes_second(jon, X), first_likes_second(X, Y), \+ (animal(Y)), has_tail(Y).
